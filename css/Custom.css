@@ -1,0 +1,74 @@
+.eventSection{
+	padding: 50px 0;
+}
+.eventSection h3{
+	font-family: 'Bebas Neue', cursive;
+	font-size: 28px;
+	text-transform: capitalize;
+	font-weight: 700;
+	color: chocolate;
+	padding: 5px 5px;
+}
+.eventSection h2{
+	font-family: 'Bebas Neue', cursive;
+	font-size: 28px;
+	text-transform: capitalize;
+	font-weight: 700;
+	color: chocolate;
+	padding: 5px 5px;
+}
+.eventSection p{
+	padding: 5px 5px;
+}
+.slider-image{
+	padding: 5px 5px;
+}
+.slider-image p{}
+.slider-image img{}
+.carousel {
+	box-shadow: 5px 5px 50px #d1ccc0;
+	padding: 25px;
+}
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Bebas+Neue&family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+.carousel-indicators{
+	justify-content: flex-start;
+	margin-right: 25px;
+	margin-left: 25px;
+}
+.carousel-indicators [data-bs-target]{
+	box-sizing: content-box;
+	flex: 0 1 auto;
+	width: 15px ;
+	height: 15px;
+	border-radius: 50%;
+	background-color: #ffc045;
+
+}
+.heading h2{
+	font-family: 'Bebas Neue', cursive;
+	font-size: 28px;
+	text-transform: capitalize;
+	font-weight: 700;
+	color: chocolate;
+	padding: 5px 5px;
+	text-align: right;
+}
+.heading h3{
+	font-family: 'Bebas Neue', cursive;
+	font-size: 28px;
+	text-transform: capitalize;
+	font-weight: 800;
+	color: chocolate;
+	padding: 5px 5px;
+	text-align: right;
+}
+.bookSection{
+	padding: 50px 0;
+}
+.plate{
+	position: absolute;
+	right: 0;
+	bottom: 0;
+}
